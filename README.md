@@ -1,2 +1,4 @@
 # LerMangasScanner
-Scanner for Mangal (using LerMangas (Language= pt-br) as the source)
+Scanner for Mangal (using LerMangas as the source).
+
+LerMangas is a portuguese(Brazil) manga and manhwa site.
